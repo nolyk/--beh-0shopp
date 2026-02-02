@@ -1,3 +1,6 @@
+import pydantic
+print("DEBUG PYDANTIC VERSION:", pydantic.__version__)
+
 import asyncio
 import colorama
 
