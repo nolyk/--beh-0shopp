@@ -1,0 +1,15 @@
+aiogram==3.23.0
+aiohttp
+aiopayok
+aiosignal
+aiosqlite
+APScheduler==3.11.0
+AsyncPayments
+beautifulsoup4
+colorama
+loguru
+nest-asyncio
+requests
+SQLAlchemy
+YooMoney==0.1.0
+cachetools
