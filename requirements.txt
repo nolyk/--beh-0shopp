@@ -13,3 +13,4 @@ requests
 SQLAlchemy
 YooMoney==0.1.0
 cachetools
+python-dotenv

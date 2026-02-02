@@ -6,7 +6,7 @@ from tgbot.utils.utils import send_admins, get_language
 
 from traceback import print_exc
 from loguru import logger
-from typing import Any
+from typing import Any, Callable, Dict, Awaitable
 
 
 class ExistsUserMiddleware(BaseMiddleware):
